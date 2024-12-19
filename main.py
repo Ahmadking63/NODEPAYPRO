@@ -8,19 +8,19 @@ from loguru import logger
 # Banner
 banner = """
         ████████    ████████        ███████
-        ██           ██               ██      ██
-        ██           ██               ██      ██
+        ██           ██              ██     ██
+        ██           ██              ██     ██
         ██████      ████████        ███████
-        ██           ██               ██
-        ██           ██               ██    
-        ██           ████████        ██  
-                                       
-          HACK NAME : NODEPAY PRO
+        ██           ██              ██
+        ██           ██              ██    
+        ██           ████████       ██  
+                
+HACK NAME : NODEPAY PRO
 
-          CREATE BY : FARUK EARNING POINT  (FEP)             
-          TELEGRAM CHNNEL : https://t.me/FarukEarningPoint 
-           CONTRACT ON TELEGRAM : @FARUKKING63 
-           YOUTUBE CHNNEL :  https://youtube.com/@farukearningpoint?si=_q0AEUA1fOcRkaoQ 
+CREATE BY : FARUK EARNING POINT  (FEP)             
+TELEGRAM CHNNEL : https://t.me/FarukEarningPoint 
+CONTRACT ON TELEGRAM : @FARUKKING63 
+YOUTUBE CHNNEL : @farukearningpoint
 
 """
 print(banner)
